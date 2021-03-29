@@ -34,4 +34,14 @@ Conforme o ECMAScript standart temos 9 tipos de dados:
 
 * null
 
-Continue ...
+# Variaveis
+
+* Nomes simbólicos para receber algum valor
+* Atalhos de código
+* Indentificadores
+* 3 palavras reservadas para criar uma variável
+    * var
+    * let
+    * const
+
+# Continue ...
